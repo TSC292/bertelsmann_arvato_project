@@ -1,1 +1,2 @@
-# bertelsmann_arvato_project
+# Bertelsmann Arvato Capstone Project
+This is a project to practice the use of clustering with large datasets, customer profiling and predictive modelling. Data used relates to demographics information on the German population and of the customer base of a mail-out company. The aim is to apply clustering to segment customers, view how customers fit into the general population and see the extent to which marketing success can be improved through clustering and predictive modelling. The data is restricted and had to be deleted soon after the project ended so can't be included.
